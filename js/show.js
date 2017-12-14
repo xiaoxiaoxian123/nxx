@@ -87,6 +87,7 @@ for(var i=0;i<obj.length;i++){
 	var middle = document.querySelector('.middle');
 	var small = document.querySelectorAll('.small');
 	var max =document.querySelector('.max')
+	var max_img =document.querySelector('.max_img')
 		for(var i=0;i<small.length;i++){
 			small[i].onmouseover = function(){
 			var url = this.getAttribute('data-url');
@@ -98,6 +99,7 @@ for(var i=0;i<obj.length;i++){
 		var oFilter = document.getElementById('filter');		
 		obox.onmousemove = function(e){
 			max.style.display="block";
+			max_img.style.display="block";
 			var e = e||event;
 			var l = e.clientX-obox.offsetLeft-oFilter.offsetWidth/2;
 			var t = e.clientY-obox.offsetTop-oFilter.offsetHeight/2;
@@ -120,6 +122,7 @@ for(var i=0;i<obj.length;i++){
 		}
 		obox.onmouseout=function(){
 			max.style.display="none";
+			max_img.style.display="none";
 		}
 
 		//选商品规格和种类

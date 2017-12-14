@@ -437,10 +437,12 @@ body,ul,li,p,dl,dd,dt,h3,h4,input,strong,em,i{margin:0;padding: 0;}
 }
 .max_img{
 	width: 430px;
+	height: 430px;
+	display: none;
 	position: absolute;
 	left: 500px;
 	overflow: hidden;
-	z-index: 10;
+	z-index: 1000;
 }
 .small_img{
 	margin-top: 3px;
