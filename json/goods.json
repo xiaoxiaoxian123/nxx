@@ -1,0 +1,97 @@
+[{
+	"img":"../home-img/s_l_1.jpg",
+	"price":"￥75.00",
+	"title1":"就是芒果：冷冻芒果",
+	"title2":"规格：600g/箱",
+	"title3":"原产地：",
+	"id":"01"
+},
+{
+	"img":"../home-img/s_l_2.jpg",
+	"price":"￥32.90",
+	"title1":"芒果千层",
+	"title2":"规格：250g/盒",
+	"title3":"原产地：",
+	"id":"02"
+},
+{
+	"img":"../home-img/s_l_3.jpg",
+	"price":"￥9.00",
+	"title1":"迷你果杯：明星主打",
+	"title2":"规格：150g/杯",
+	"title3":"原产地：",
+	"id":"03"
+},
+{
+	"img":"../home-img/s_l_4.jpg",
+	"price":"￥29.80",
+	"title1":"海南三亚小台芒果1kg",
+	"title2":"规格：50-100g/个",
+	"title3":"原产地：海南三亚",
+	"id":"04"
+},
+{
+	"img":"../home-img/s_l_5.jpg",
+	"price":"￥56.00",
+	"title1":"海南三亚大台芒果1kg",
+	"title2":"规格：180-250g/个",
+	"title3":"原产地：海南三亚",
+	"id":"05"
+},
+{
+	"img":"../home-img/s_l_6.jpg",
+	"price":"￥21.00",
+	"title1":"三分果盒：季节限定",
+	"title2":"规格：300g/盒",
+	"title3":"原产地：",
+	"id":"06"
+},
+{
+	"img":"../home-img/s_l_7.jpg",
+	"price":"￥14.00",
+	"title1":"标准果杯：季节限定",
+	"title2":"规格：250g/杯",
+	"title3":"原产地：",
+	"id":"07"
+},
+{
+	"img":"../home-img/s_l_8.jpg",
+	"price":"￥14.90",
+	"title1":"酸奶鲜果杯",
+	"title2":"规格：250g/杯",
+	"title3":"原产地：",
+	"id":"08"
+},
+{
+	"img":"../home-img/s_l_9.jpg",
+	"price":"￥169.00",
+	"title1":"炫彩果盒:高级尝味",
+	"title2":"规格：1500g/盘",
+	"title3":"原产地：",
+	"id":"09"
+},
+{
+	"img":"../home-img/s_l_10.jpg",
+	"price":"￥149.00",
+	"title1":"炫彩果盒:季节限定",
+	"title2":"规格：1500g/盘",
+	"title3":"原产地：",
+	"id":"10"
+},
+{
+	"img":"../home-img/s_l_11.jpg",
+	"price":"￥35.00",
+	"title1":"超级果盒:高级尝味",
+	"title2":"规格：500g/盒",
+	"title3":"原产地：",
+	"id":"11"
+},
+{
+	"img":"../home-img/s_l_12.jpg",
+	"price":"￥32.00",
+	"title1":"超级果盒:季节限定",
+	"title2":"规格：500g/盒",
+	"title3":"原产地：",
+	"id":"12"
+}
+]
