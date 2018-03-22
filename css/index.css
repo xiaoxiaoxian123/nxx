@@ -50,6 +50,7 @@ p,h3,ul,li,dt,dd,dl,body,h4{margin:0;padding: 0;}
     height: 40px;
     right: -4px;
     border-radius: 7px;
+	bottom:6px;
 }
 .hot{
 	text-align: center;
