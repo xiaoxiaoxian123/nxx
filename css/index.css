@@ -30,8 +30,13 @@ p,h3,ul,li,dt,dd,dl,body,h4{margin:0;padding: 0;}
 0%   {transform:translateY(0);}
 100% {transform:translateY(-5px);}
 }
+.search_box{
+	margin: 0px 32%;
+        text-align: center;
+        position: relative;
+}
 .search{
-	width: 684px;
+	width: 100%;
 	height: 40px;
 	outline: none;
 	border-radius: 10px;
@@ -42,9 +47,8 @@ p,h3,ul,li,dt,dd,dl,body,h4{margin:0;padding: 0;}
 }
 .sousuo{
 	position: absolute;
-	top: 162px;
     height: 40px;
-    right: 26%;
+    right: -4px;
     border-radius: 7px;
 }
 .hot{
@@ -94,10 +98,14 @@ p,h3,ul,li,dt,dd,dl,body,h4{margin:0;padding: 0;}
 	float: left;
 	width: 33%;
 }
+.introduce1,.introduce2,.introduce3{
+	position:relative;
+	height:53px;
+}
 .introduce1 dt img{
 	width: 44px;
 	height: 44px;
-	left: 50px;
+	left: 133px;
 	position: absolute;
 }
 .introduce1  span{
@@ -106,7 +114,8 @@ p,h3,ul,li,dt,dd,dl,body,h4{margin:0;padding: 0;}
     font-size: 22px;
 }
 .introduce1  p{
-	margin-left: -25%;
+	position:absolute;
+	left:193px;
     color: #616161;
     font-size: 18px;
 }
@@ -116,7 +125,7 @@ p,h3,ul,li,dt,dd,dl,body,h4{margin:0;padding: 0;}
 .introduce2 dt img{
 	width: 44px;
 	height: 44px;
-	left: 520px;
+	left: 133px;
 	position: absolute;
 }
 .introduce2  span{
@@ -125,7 +134,8 @@ p,h3,ul,li,dt,dd,dl,body,h4{margin:0;padding: 0;}
     font-size: 22px;
 }
 .introduce2  p{
-	margin-left: -27%;
+	position:absolute;
+	left:193px;
     color: #616161;
     font-size: 18px;
 }
@@ -135,7 +145,7 @@ p,h3,ul,li,dt,dd,dl,body,h4{margin:0;padding: 0;}
 .introduce3 dt img{
 	width: 44px;
 	height: 44px;
-	right: 390px;
+	left:133px;
 	position: absolute;
 }
 .introduce3  span{
@@ -144,7 +154,8 @@ p,h3,ul,li,dt,dd,dl,body,h4{margin:0;padding: 0;}
     font-size: 22px;
 }
 .introduce3  p{
-	margin-left: -22%;
+	position:absolute;
+	left:193px;
     color: #616161;
     font-size: 18px;
 }
