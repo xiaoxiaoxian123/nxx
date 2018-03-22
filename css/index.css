@@ -98,7 +98,15 @@ p,h3,ul,li,dt,dd,dl,body,h4{margin:0;padding: 0;}
 .introduce>dl{
 	text-align: center;
 }
-.introduce1,.introduce2,.introduce3{
+.introduce1 dt{
+	position:relative;
+	height:53px;
+}
+.introduce2 dt{
+	position:relative;
+	height:53px;
+}
+.introduce3 dt{
 	position:relative;
 	height:53px;
 }
