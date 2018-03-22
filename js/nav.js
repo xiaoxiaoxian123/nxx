@@ -44,7 +44,16 @@ classify.onmouseover=function(){
 		div[this.index].firstElementChild.style.textdecoration="underline";	
 	}	
 }
+}
+var select_child=document.getElementsByClassName("select2_child");
+for(var i=0;i<select_child.length;i++){
+	select_child[i].onmouseover=function(){
+		this.firstElementChild.style.color="orange";
 }	
+select_child[i].onmouseout=function(){
+		this.firstElementChild.style.color="#666666";
+}
+}
 //轮播
 var oBanner = document.getElementById('banner');
 var oUl = document.querySelector('#banner>ul');
