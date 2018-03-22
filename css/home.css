@@ -295,6 +295,7 @@ body,ul,li,p,dl,dd,dt,h3,h4{margin:0;padding: 0;}
 	width: 1200px;
 	height: 35px;
 	margin: 0 auto;
+	postion:relative;
 }
 .nav2 ul li{
 	list-style: none;
@@ -339,9 +340,9 @@ body,ul,li,p,dl,dd,dt,h3,h4{margin:0;padding: 0;}
 .nav2 .nav_second a:hover{background: #eb9621;}
 #select{
 	width: 165px;
-	top: 141px;
+	top: 35px;
 	position: absolute;
-	left: 10.5%;
+	left: 2.5%;
 	display: none;
 	z-index: 13;
 }
