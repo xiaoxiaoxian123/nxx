@@ -92,11 +92,11 @@ p,h3,ul,li,dt,dd,dl,body,h4{margin:0;padding: 0;}
 	overflow: hidden;
 	padding-bottom: 150px;
 	border-bottom: 5px solid #e3e3e3;
+	display:flex;
+	justify-content:space-around;
 }
 .introduce>dl{
 	text-align: center;
-	float: left;
-	width: 33%;
 }
 .introduce1,.introduce2,.introduce3{
 	position:relative;
@@ -105,7 +105,7 @@ p,h3,ul,li,dt,dd,dl,body,h4{margin:0;padding: 0;}
 .introduce1 dt img{
 	width: 44px;
 	height: 44px;
-	left: 133px;
+	left: 0;
 	position: absolute;
 }
 .introduce1  span{
@@ -115,7 +115,7 @@ p,h3,ul,li,dt,dd,dl,body,h4{margin:0;padding: 0;}
 }
 .introduce1  p{
 	position:absolute;
-	left:193px;
+	left:17%;
     color: #616161;
     font-size: 18px;
 }
@@ -125,17 +125,17 @@ p,h3,ul,li,dt,dd,dl,body,h4{margin:0;padding: 0;}
 .introduce2 dt img{
 	width: 44px;
 	height: 44px;
-	left: 133px;
+	left: 0;
 	position: absolute;
 }
 .introduce2  span{
-	margin-left: 0%;
+	margin-left: 4%;
     color: #010101;
     font-size: 22px;
 }
 .introduce2  p{
 	position:absolute;
-	left:193px;
+	left:17%;
     color: #616161;
     font-size: 18px;
 }
@@ -145,7 +145,7 @@ p,h3,ul,li,dt,dd,dl,body,h4{margin:0;padding: 0;}
 .introduce3 dt img{
 	width: 44px;
 	height: 44px;
-	left:133px;
+	left:0;
 	position: absolute;
 }
 .introduce3  span{
@@ -155,7 +155,7 @@ p,h3,ul,li,dt,dd,dl,body,h4{margin:0;padding: 0;}
 }
 .introduce3  p{
 	position:absolute;
-	left:193px;
+	left:17%;
     color: #616161;
     font-size: 18px;
 }
