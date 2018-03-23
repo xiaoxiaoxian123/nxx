@@ -45,6 +45,15 @@ classify.onmouseover=function(){
 	}	
 }
 }
+var select_child=document.getElementsByClassName("select2_child");
+for(var i=0;i<select_child.length;i++){
+	select_child[i].onmouseover=function(){
+		this.firstElementChild.style.color="orange";
+}	
+select_child[i].onmouseout=function(){
+		this.firstElementChild.style.color="#666666";
+}
+}
 var content=document.getElementById('content')
 content.onmouseover = function(){
 	
